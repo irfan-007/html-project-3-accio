@@ -101,7 +101,7 @@ img {
 }
 #img1 {
   border-radius: 25px;
-  background: url("../static/img1.png");
+  background: url("./static/img1.png");
   background-size: cover;
   background-position: center;
   width: 100%;
